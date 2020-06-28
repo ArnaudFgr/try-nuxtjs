@@ -2,7 +2,7 @@
   <b-navbar toggleable="lg" type="dark" variant="info">
     <b-navbar-brand href="#">Mon application</b-navbar-brand>
       <b-navbar-nav class="ml-auto">
-        <nuxt-link to="/admin" class="nav-link">Login</nuxt-link>
+        <nuxt-link to="/posts" class="nav-link">Login</nuxt-link>
       </b-navbar-nav>
   </b-navbar>
 </template>
