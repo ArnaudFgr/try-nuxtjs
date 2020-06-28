@@ -1,14 +1,12 @@
 <template>
   <div>
-    <main>
-      le main
-    </main>
+    login
   </div>
 </template>
 
 <script>
 export default {
-  name: "index",
+  name: 'login',
 }
 </script>
 
